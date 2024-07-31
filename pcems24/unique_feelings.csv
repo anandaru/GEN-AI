@@ -1,0 +1,306 @@
+feeling,sentiment
+happi,positive
+fatigu,positive
+out of shap,negative
+good,positive
+hard,negative
+relax,positive
+"weak, out of shap",negative
+energet,positive
+light,positive
+exhaust,negative
+healthi,positive
+tire,neutral
+energ,positive
+amaz,positive
+pumped up,positive
+sore,negative
+determin,positive
+not where i should b,neutral
+"tired, uplift",nuetral
+sluggish,negative
+strong,positive
+wind,negative
+out of breath,negative
+"tired, hungri",neutral
+drain,negative
+heavy breath,negative
+"great, limber, warmed up",positive
+"exhilarated, sexi",positive
+sick,negative
+somewhat tir,positive
+better,positive
+"tired, short of breath",negative
+"weak, jelly leg",negative
+beat,positive
+invigor,positive
+weak,negative
+burn,positive
+satisfi,positive
+great,positive
+accomplish,positive
+muscular,positive
+incred,positive
+struggl,positive
+flexibl,negative
+"exhausted, hungri",negative
+glad,positive
+sore/satisfaction/achiev,positive
+worn out,negative
+knee pain,negative
+excruci,negative
+unstabl,negative
+pain,negative
+difficult,negative
+limber,negative
+enlighten,positive
+empow,positive
+pleas,positive
+excit,positive
+"great, fun",positive
+"powerful, energized, stress",positive
+"tired, worn out",negative
+power,positive
+"straining, muscle activ",negative
+bore,positive
+refresh,positive
+"good, high spirit",positive
+"energized, refresh",positive
+shaki,negative
+nice,positive
+sweati,positive
+"sweaty, hot, good",positive
+okay,neutral
+numb,negative
+worn,negative
+strenuou,negative
+"winded, shaky, numb",negative
+jelly leg,negative
+easi,positive
+"refreshed, energet",positive
+stretch,positive
+all fired up,positive
+"tired, weak",negative
+"worn out, tir",positive
+"tired, sweati",neutral
+challeng,positive
+fresh,positive
+in pain,negative
+hungri,neutral
+full of vit,positive
+full of energi,positive
+intens,positive
+"energized, great",positive
+"out of breath, tir",neutral
+back pain,negative
+"refreshing, excit",positive
+"great, tir",positive
+perki,positive
+hot,positive
+"strong, refresh",positive
+"incredible, fun",positive
+brave,positive
+great workout,positive
+heart beating fast,neutral
+"out of breath, out of shap",negative
+"burning, ach",negative
+"tight, worn out",positive
+body pain,negative
+high energi,positive
+loos,negative
+aw,negative
+dizzi,negative
+need to exercise mor,neutral
+"winded, sw",neutral
+"jiggly, tir",neutral
+fun,positive
+reinvigor,positive
+"sore, accomplish",positive
+"good, exhaust",positive
+"exhausted, sor",negative
+"worn out, great",positive
+athlet,positive
+"energized, strong",positive
+heavi,neutral
+pump,positive
+"sore, tir",negative
+"sore, great",positive
+"exhausted, out of shap",negative
+"tired, tingl",neutral
+"great, strong",positive
+"great, pumped up",positive
+huffing and puf,positive
+"exhilarated, refresh",positive
+fulfil,negative
+tight muscl,positive
+"stiff, sor",negative
+"relaxed, sor",positive
+"energized, sor",positive
+"exhausted, pow",neutral
+shoulder pain,negative
+"shaky, achi",negative
+tight/core work,positive
+"tired, happi",positive
+"energised, good",positive
+confid,positive
+"heart racing, sweati",neutral
+"determined, strong, relaxed, accomplish",positive
+motiv,positive
+"awful, dizzi",negative
+heart pound,positive
+legs ach,positive
+"tired, out of breath, sweati",negative
+tender,neutral
+"tired, out of shap",neutral
+"happy, tired, sor",positive
+recharg,positive
+fast,positive
+"happy, tir",positive
+heart rac,positive
+"mixed (great, miserable)",neutral
+euphor,positive
+horribl,negative
+exhilar,positive
+proud,positive
+"out of shape, accomplish",positive
+terrifi,negative
+"exhausted, tir",positive
+"tired, good",positive
+"tired, bor",neutral
+remark,positive
+jello leg,negative
+"tired, hand pain",positive
+"confident, in shap",positive
+achi,negative
+in need of more groundwork,neutral
+"happy, fre",positive
+"not energized, leg pain",positive
+physical pain,negative
+heart beating rapidli,neutral
+nauseou,negative
+"refreshed, energ",positive
+"great, sor",positive
+"tired, shaki",neutral
+"sore, exhaust",negative
+hurting and exhaust,negative
+"winded, needing to build endur",neutral
+tired but fin,positive
+unfit,negative
+rejuven,positive
+wonder,positive
+prepar,neutral
+spent,neutral
+breathless,negative
+bursting with energi,positive
+dislik,negative
+"tired, thirsti",negative
+"beat, breathless",negative
+"energized, excited, happi",positive
+not good,negative
+"exhausted, tough",positive
+"winded, stress",positive
+"energetic, refreshed, happi",positive
+"tired, great",positive
+"sweaty, shaki",positive
+lighter,positive
+good progress,positive
+terrif,positive
+"out of shape, tir",positive
+"out of shape, sor",positive
+less guilti,positive
+fine,positive
+"energized, happi",positive
+awak,positive
+reviv,positive
+"relaxed, good",positive
+"tired, sor",positive
+dehydr,positive
+comfort,positive
+"refreshed, rejuven",positive
+jelli,negative
+"tired, energ",positive
+enjoy,positive
+focus,positive
+noodle-lik,positive
+easier,positive
+better than anticip,positive
+reliev,positive
+warmed up,positive
+"sweaty, achi",negative
+"waterlogged, tir",neutral
+chang,neutral
+"sore, energ",neutral
+lighthead,negative
+"tired, proud",positive
+center,positive
+"relaxed, ton",positive
+"calm, rejuven",positive
+fantast,positive
+"relaxed, exhaust",positive
+loosened up,positive
+"relaxed, at peac",positive
+"limber, proud",positive
+confus,negative
+back hurt,negative
+"energized, confid",positive
+tight,negative
+"stiff, bett",neutral
+"relaxed, accomplish",positive
+"relaxed, calm",positive
+emotionally reliev,positive
+"relaxed, rejuven",positive
+"shaky, proud",positive
+"relaxed, proud, cap",positive
+"exhausted, energ",positive
+light on my feet,positive
+at peac,positive
+"tired, exhaust",positive
+"engaged, challenged, fun, sweating, breathing hard",positive
+stronger,positive
+thirsti,neutral
+"energized, relax",positive
+cramp,negative
+wiped out,negative
+"relaxed, limb",positive
+pushed myself,positive
+"tired, energet",positive
+"tired, alert",positive
+quick,positive
+"sweaty, tir",neutral
+"outstanding, exhilar",positive
+"energetic, happi",positive
+"bored, tir",neutral
+loosen,neutral
+"energized, awake, readi",positive
+"sweaty, out of breath",negative
+"ok, rough patch",negative
+"out of breath, sweati",positive
+"relaxed, calm, happi",positive
+"parched, tir",neutral
+wanting to quit,negative
+"lighter, accomplish",positive
+muscle failur,positive
+on fir,positive
+"tired, sw",neutral
+"relief, good",positive
+ineffici,positive
+short of breath,positive
+"good, strong",positive
+"strong, happi",positive
+"pumped up, fun",positive
+water log,positive
+hardly any pain,neutral
+pleasant,positive
+"great, energ",positive
+"refreshed, invigor",positive
+"tired, worn out, good",positive
+revit,positive
+wobbl,negative
+"good, healthi",positive
+peac,positive
+muscle ach,negative
+"sweating, sor",positive
+entertain,positive
+benefici,positive
+awesom,positive
+"energized, good",positive
